@@ -1,5 +1,5 @@
 # Hola, mi nombre es Jose Luis 👋
-### Freelance full-stack programming
+### Full-stack programming
 
 <!--
 **joseluislavoz/joseluislavoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
